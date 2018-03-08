@@ -1,13 +1,13 @@
-#Scala Basic
+# Scala Basic
 
-##What is it, anyway?
+## What is it, anyway?
 
 Scala Basic is practical guideline for Scala newcomers that need to be able learn Scala as fast as he / she can
 without compromising fundamentals. This guideline is targeted for programmer that has familiarity with object-oriented
 programming and want to learn Scala as fast as possible. Scala Basic is by no means to replace various practical and
 fundamental books and tutorials out there, as this guideline can not be completed without previous works.
 
-##Credit
+## Credit
 
 This guideline takes big help from :
 
